@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asindu De Silva</h1>
-<h3 align="center">I'm a computer science undergraduate at University of Kelaniya who is passionate about full stack web developing and mobile app developing.</h3>
+<h3 align="center">I'm a Computer Science undergraduate at University of Kelaniya who is passionate about Full-Stack Developing.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asindudesilva&label=Profile%20views&color=0e75b6&style=flat" alt="asindudaaaasindudasindud" /> </p>
 
