@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Asindu De Silva</h1>
 
-I'm a Computer Science undergraduate at University of Kelaniya who is passionate about Full-Stack Developing.
+#### I'm a Computer Science undergraduate at University of Kelaniya who is passionate about Full-Stack Developing.
 
  <!-- ## 🌐 Socials:
  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/asindu.desilva.7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/asindu_de_silva) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asindu-de-silva) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21852219)  -->
